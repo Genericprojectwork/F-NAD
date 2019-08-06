@@ -1,0 +1,11 @@
+@INPROCEEDINGS{rbarua2019,
+   author = {Ranojoy Barua and Rajdeep Maity and Dipankar Minj and Tarang Barua and Ashish Kumar Layek},
+   title = {F-NAD: An Application for Fake News Article Detection using Machine Learning Techniques},
+   booktitle = {IEEE Bombay Section Signature Conference 2019 (IBSSC-2019)},
+   year = {2019},
+   month={Aug},
+   abstract = {Nowadays the Internet and Social Media are flooded with fake accounts, fake posts and misleading news articles. The intention of these are often to mislead the common people and/or manipulate them into believing something that is not real.
+Misinformation or fake news can leave negative impact on a person or society as a whole that can last forever even if they get corrected afterwards. This work proposed here is to tackle this issue and it aims to identify a news articles whether it is
+real or misleading. This is achieved using an ensemble technique of state of the art recurrent neural networks (LSTM and GRU). An android application has also been developed for determining the sanctity of a news article. The proposed model is tested on a
+large dataset which is prepared in this work by collecting news from various fake and real news sources. It has also been tested using different standard datasets available in the literature and it is found that the proposed model performs better.}
+}}
